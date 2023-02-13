@@ -1,10 +1,9 @@
 # Summary
 
-This repo is for solved questions in LeetCode
+<p> This repo is for solved questions in LeetCode </p>
 
-#### Sum
+### ps1 - Programming Skills I
 
-ps1 - Programming Skills I
 
 
 ## License
